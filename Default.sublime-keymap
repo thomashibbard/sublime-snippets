@@ -1,0 +1,7 @@
+[{
+	"keys": ["super+e"],
+	"command": "insert_snippet",
+	"args": {
+		"name": "Packages/User/console-log.sublime-snippet"
+	}
+}]

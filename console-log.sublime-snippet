@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[console.log('$SELECTION', $SELECTION)$1]]></content>
+	<description>console.log Snippet</description>
+</snippet>
